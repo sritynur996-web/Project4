@@ -20,9 +20,9 @@ public class Task2 {
             }
 
             if (num % 2 == 0) {
-                evenCount++;  // ekhane ++ ase kheyal koro
+                evenCount++;
             } else {
-                oddCount++;   // ekhane ++ ase
+                oddCount++;
             }
         }
 
